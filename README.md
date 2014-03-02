@@ -14,3 +14,5 @@ They are awsome !!
 3. Simple work hierachy
 
 4. Great feeling
+5. It is now linked to issue 2  
+6. welcome to fixing
