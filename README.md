@@ -17,3 +17,8 @@ They are awsome !!
 5. It is now linked to issue 2  
 6. welcome to fixing
 7. good one
+
+#Issues
+
+1. features
+2. fixing broken stuff
